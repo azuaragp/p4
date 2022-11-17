@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-Regular.woff2') format('woff2'),
+        url('TitilliumWeb-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-SemiBold.woff2') format('woff2'),
+        url('TitilliumWeb-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rokkitt';
+    src: url('Rokkitt-Regular.woff2') format('woff2'),
+        url('Rokkitt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Miriam Libre';
+    src: url('MiriamLibre-Regular.woff2') format('woff2'),
+        url('MiriamLibre-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Miriam Libre';
+    src: url('MiriamLibre-Bold.woff2') format('woff2'),
+        url('MiriamLibre-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
